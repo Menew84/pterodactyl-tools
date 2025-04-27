@@ -38,7 +38,7 @@
 2. **Placez-vous dans le bon dossier (là où est `installer.sh`) :**
 
 ```bash
-cd ~/scripts
+cd ~
 ```
 
 3. **Donnez les permissions d'exécution et lancez l'installation :**
